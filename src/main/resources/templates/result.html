@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Result from Server</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<h1>Result from Server</h1>
+	<p th:text="'The following states are within the boundary of the borders given ' + ${solution.getState()}" />	
+    <a href="/home">Try another latitude and longitude</a>
+</body>
+</html>

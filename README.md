@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # State-Server
 
 The following is my attempt at solving the state-server problem set by Vistar Media. I enjoyed this challenge and learnt a lot while attempting this problem.
@@ -15,6 +14,3 @@ Through the terminal run the following command after downloading the [jar](targe
 ### Import as maven project
 
 The file can also be imported as a maven project and run through eclipse or any IDE. Main application is Application.java.
-=======
-# state-server
->>>>>>> 364ebfffb22bcaeb1be471d42f92d0c6931e2297
